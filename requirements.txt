@@ -1,0 +1,8 @@
+psutil
+telethon
+telebot
+requests
+certifi
+psutil
+telegraph
+requests
